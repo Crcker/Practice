@@ -1,0 +1,6 @@
+export const LOGIN_ROUTE = '/login'
+export const REGISTRATION_ROUTE = '/'
+export const EVENTS_ROUTE  = '/events'
+export const CREATE_EVENT_ROUTE = '/create'
+export const EVENT_DESCRIBE_ROUTE = '/describe'
+export const USER_DESCRIBE_ROUTE = '/user'
